@@ -91,4 +91,4 @@ gcloud compute forwarding-rules create http-content-rule \
 --ports 80
 ```
 
-***DONE !! [ wait 10 minutes before clicking on verify ] ***
+***DONE !! [ wait 10 minutes before clicking on verify ]***
